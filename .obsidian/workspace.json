@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "a78b986cc2397129",
+    "type": "split",
+    "children": [
+      {
+        "id": "981162aec238624f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b99a262a5ac522f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/HTB/PikaTwoo/rustscan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57c8d4e6c88fec00",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b56c079da44f851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "043a4572158575ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d0a66f1139d8e6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "277bbcd6b4447772",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d90c1e5abdf6185f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce4e9f16b119e702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56b8418bbc3de551",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/HTB/PikaTwoo/rustscan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bdd27f267714ba1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android/HTB/PikaTwoo/rustscan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91af57d70616a987",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c579bfadb050f168",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/HTB/PikaTwoo/rustscan.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b99a262a5ac522f6",
+  "lastOpenFiles": [
+    "Android/HTB/PikaTwoo/README.md",
+    "Android/HTB/PikaTwoo/rustscan.md",
+    "Android/HTB/PikaTwoo/rustscan.md.md",
+    "Android/HTB/PikaTwoo/README.md.md"
+  ]
+}
